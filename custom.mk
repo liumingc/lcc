@@ -1,1 +1,4 @@
 
+BUILDDIR=build
+TARGET=x86
+HOSTFILE=etc/linux.c
